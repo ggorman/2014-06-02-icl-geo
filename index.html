@@ -1,34 +1,22 @@
 ---
 layout: bootcamp
 root: .
-venue: Euphoric State University
-address: 123 College Street, Euphoria
-country: United-States
-humandate: Feb 17-18, 2020
-humantime: 9:00 am - 4:30 pm
-startdate: 2020-06-17
-enddate: 2020-06-18
-latlng: 41.7901128,-87.6007318
+venue:  G07, Royal School of Mines, Imperial College London
+address: Prince Consort Road, South Kensington Campus, London SW7 2AZ
+country: United-Kingdom
+humandate: Jun 02-03, 2014
+humantime: 9:00 am - 17:00 pm
+startdate: 2014-06-02
+enddate: 2014-06-03
+latlng: 51.499715,-0.174904
 registration: restricted
-instructor: ["Grace Hopper", "Alan Turing"]
-contact: admin@software-carpentry.org
+instructor: ["Gerard Gorman", "Christian Jacobs"]
+contact: g.gorman@imperial.ac.uk
 ---
 <!--
     Edit the values in the parameter block above to be appropriate for your bootcamp.
     Please use three-letter month names for the 'humandate' field.
 -->
-
-<!-- Remove the block below. -->
-<div align="center">
-  <p><strong><em>
-      This page is a template for bootcamp home pages.
-      <br/>
-      Please see
-      <a href="https://github.com/swcarpentry/bc">https://github.com/swcarpentry/bc</a>
-      for instructions on how to create
-      a repository for your bootcamp.
-  </em></strong></p>
-</div>
 
 <!--
     This block includes the Eventbrite registration widget if 'eventbrite' has been set in the header.
@@ -64,7 +52,7 @@ contact: admin@software-carpentry.org
 -->
 <p>
   <strong>Who:</strong>
-  The course is aimed at graduate students and other researchers.
+  The course is aimed at 1st year geophysicists and geologists.
 </p>
 
 <!--
@@ -83,12 +71,13 @@ contact: admin@software-carpentry.org
 
 <!--
     Modify the block below if there are any special requirements.
--->
 <p>
   <strong>Requirements:</strong>
   Participants must bring a laptop with a few specific software packages installed
   (listed below).
 </p>
+
+-->
 
 <!--
     This block automatically inserts a contact email address if one has been specified for the page.
@@ -113,19 +102,14 @@ contact: admin@software-carpentry.org
 <h2>Schedule</h2>
 
 <table class="table table-striped">
-  <tr> <td>Monday</td>  <td>09:00</td>  <td>Introduction to task automation with the Unix shell</td> </tr>
-  <tr> <td></td>        <td></td>       <td>Coffee will be served at 10:30.</td> </tr>
+  <tr> <td>Monday</td>  <td>09:00</td>  <td>The Unix shell - part I</td> </tr>
   <tr> <td></td>        <td>12:00</td>  <td>Lunch break</td> </tr>
-  <tr> <td></td>        <td>13:00</td>  <td>Building programs with Python</td> </tr>
-  <tr> <td></td>        <td></td>       <td>Coffee will be served at 14:30.</td> </tr>
-  <tr> <td></td>        <td>16:00</td>  <td>Wrap-up</td> </tr>
-  <tr> <td>Tuesday</td> <td>09:00</td>  <td>Version control with Git</td> </tr>
-  <tr> <td></td>        <td></td>       <td>Coffee will be served at 10:30.</td> </tr>
+  <tr> <td></td>        <td>14:00</td>  <td>The Unix Shell - part II</td> </tr>
+  <tr> <td></td>        <td>16:30</td>  <td>Wrap-up</td> </tr>
+  <tr> <td>Tuesday</td> <td>09:00</td>  <td>Version control with Git - part I</td> </tr>
   <tr> <td></td>        <td>12:00</td>  <td>Lunch break</td> </tr>
-  <tr> <td></td>        <td>13:00</td>  <td>Managing data with SQL</td> </tr>
-  <tr> <td></td>        <td></td>       <td>Coffee will be served at 14:30.</td> </tr>
-  <tr> <td></td>        <td>15:00</td>  <td>Putting it all together</td> </tr>
-  <tr> <td></td>        <td>16:00</td>  <td>Wrap-up</td> </tr>
+  <tr> <td></td>        <td>14:00</td>  <td>Version control with Git - part II</td> </tr>
+  <tr> <td></td>        <td>16:30</td>  <td>Wrap-up</td> </tr>
 </table>
 
 <hr/>
@@ -138,11 +122,10 @@ contact: admin@software-carpentry.org
 <h2>Setup</h2>
 
 <p>
-  To participate in a Software Carpentry bootcamp, 
-  you will need working copies of the software described below.
-  Please make sure to install everything
-  (or at least to download the installers)
-  <em>before</em> the start of your bootcamp.
+  Everything you need is already installed in the computer lab, and on the
+  ESE student linux servers - student.ese.ic.ac.uk and student2.ese.ic.ac.uk.
+  However, if you want to install any of the software on your own computer you
+  can find instillation instructions below.
 </p>
 
 {% include setup.html %}
