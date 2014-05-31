@@ -23,7 +23,7 @@ To see how we can resolve conflicts,
 we must first create one.
 The file `mars.txt` currently looks like this
 in both local copies of our `planets` repository
-(the one in our home directory and the one in `/tmp`):
+(the one in `/home/vlad/` and the one in `/home/vlad/tmp`):
 
 <div class="in" markdown="1">
 ~~~
@@ -38,7 +38,7 @@ But the Mummy will appreciate the lack of humidity
 ~~~
 </div>
 
-Let's add a line to the copy under our home directory:
+Let's add a line to the copy in our `/home/vlad/planets` repository:
 
 <div class="in" markdown="1">
 ~~~
@@ -51,7 +51,7 @@ $ cat mars.txt
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
-This line added to our home copy
+This line added to our /home/vlad/planets copy
 ~~~
 </div>
 
@@ -60,12 +60,12 @@ and then push the change to GitHub:
 <div class="in" markdown="1">
 ~~~
 $ git add mars.txt
-$ git commit -m "Adding a line in our home copy"
+$ git commit -m "Adding a line in our /home/vlad/planets copy"
 ~~~
 </div>
 <div class="out" markdown="1">
 ~~~
-[master 5ae9631] Adding a line in our home copy
+[master 5ae9631] Adding a line in our /home/vlad/planets copy
  1 file changed, 1 insertion(+)
 ~~~
 </div>
@@ -90,13 +90,13 @@ Our repositories are now in this state:
 
 <img src="img/git-after-first-conflicting-change.svg" alt="After Making First Change" />
 
-Now let's switch to the copy under `/tmp`
+Now let's switch to the copy under `/home/vlad/tmp`
 and make a different change there
 *without* updating from GitHub:
 
 <div class="in" markdown="1">
 ~~~
-$ cd /tmp/planets
+$ cd /home/vlad/tmp/planets
 $ nano mars.txt
 $ cat mars.txt
 ~~~
@@ -186,7 +186,7 @@ But the Mummy will appreciate the lack of humidity
 <<<<<<< HEAD
 We added a different line in the temporary copy
 =======
-This line added to our home copy
+This line added to our /home/vlad/planets copy
 >>>>>>> dabb4c8c450e8475aee9b14b4383acc99f42af1d
 ~~~
 </div>
@@ -282,7 +282,7 @@ to get this:
 
 Git keeps track of what we've merged with what,
 so we don't have to fix things by hand again
-if we switch back to the repository in our home directory and pull from GitHub:
+if we switch back to the repository in our `/home/vlad/planets` directory and pull from GitHub:
 
 <div class="in" markdown="1">
 ~~~

@@ -16,7 +16,7 @@
    clip-path="url(#presentation_clip_path)"
    xml:space="preserve"
    id="svg2"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="git-after-pulling-to-local-repo.svg"
    style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"><metadata
    id="metadata820"><rdf:RDF><cc:Work
@@ -30,20 +30,20 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="640"
-   inkscape:window-height="480"
+   inkscape:window-width="1920"
+   inkscape:window-height="1031"
    id="namedview818"
    showgrid="false"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="0.23838384"
-   inkscape:cx="344.40945"
-   inkscape:cy="-122.06693"
+   inkscape:zoom="2.6970053"
+   inkscape:cx="144.09304"
+   inkscape:cy="316.03486"
    inkscape:window-x="0"
    inkscape:window-y="0"
-   inkscape:window-maximized="0"
+   inkscape:window-maximized="1"
    inkscape:current-layer="svg2" />
  <defs
    class="ClipPathGroup"
@@ -58,7 +58,58 @@
    height="27940"
    id="rect7" />
   </clipPath>
- </defs>
+ 
+  
+ 
+   
+  
+    
+   
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    
+      
+     
+       
+       
+
+      </defs>
  <defs
    class="TextShapeIndex"
    id="defs9">
@@ -161,21 +212,9 @@
   </g>
  </g>
  <g
-   class="SlideGroup"
-   id="g49"
-   transform="translate(-1075,-1212.5254)">
-  <g
-   id="g51">
-   <g
-   id="id1"
-   class="Slide"
-   clip-path="url(#presentation_clip_path)">
-    <g
-   class="Page"
-   id="g54">
-     <g
    class="com.sun.star.drawing.CustomShape"
-   id="g56">
+   id="g56"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id3">
        <path
@@ -189,10 +228,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.TextShape"
-   id="g63">
+   id="g63"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id4">
        <text
@@ -210,11 +249,12 @@
          id="tspan72"
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
 
+
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g74">
+   id="g74"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id5">
        <path
@@ -223,10 +263,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g79">
+   id="g79"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id6">
        <path
@@ -235,10 +275,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g84">
+   id="g84"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id7">
        <path
@@ -247,10 +287,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.CustomShape"
-   id="g89">
+   id="g89"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id8">
        <path
@@ -273,11 +313,12 @@
          id="tspan100"
          style="fill:#000000;stroke:none">/home/vlad/planets</tspan></tspan></tspan></text>
 
+
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.CustomShape"
-   id="g102">
+   id="g102"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id9">
        <path
@@ -300,11 +341,12 @@
          id="tspan113"
          style="fill:#000000;stroke:none">/somewhere/planets</tspan></tspan></tspan></text>
 
+
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g115">
+   id="g115"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id10">
        <path
@@ -763,10 +805,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g300">
+   id="g300"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id11">
        <path
@@ -1545,10 +1587,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.TextShape"
-   id="g613">
+   id="g613"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id12">
        <text
@@ -1566,11 +1608,12 @@
          id="tspan622"
          style="fill:#000000;stroke:none">local</tspan></tspan></tspan></text>
 
+
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.TextShape"
-   id="g624">
+   id="g624"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id13">
        <text
@@ -1588,11 +1631,12 @@
          id="tspan633"
          style="fill:#000000;stroke:none">GitHub</tspan></tspan></tspan></text>
 
+
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.CustomShape"
-   id="g635">
+   id="g635"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id14">
        <path
@@ -1606,10 +1650,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.TextShape"
-   id="g642">
+   id="g642"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id15">
        <text
@@ -1627,11 +1671,12 @@
          id="tspan651"
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
 
+
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g653">
+   id="g653"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id16">
        <path
@@ -1640,10 +1685,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g658">
+   id="g658"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id17">
        <path
@@ -1652,10 +1697,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g663">
+   id="g663"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id18">
        <path
@@ -1664,10 +1709,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.CustomShape"
-   id="g668">
+   id="g668"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id19">
        <path
@@ -1681,10 +1726,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.TextShape"
-   id="g675">
+   id="g675"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id20">
        <text
@@ -1702,11 +1747,12 @@
          id="tspan684"
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
 
+
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g686">
+   id="g686"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id21">
        <path
@@ -1715,10 +1761,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g691">
+   id="g691"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id22">
        <path
@@ -1727,10 +1773,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g696">
+   id="g696"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id23">
        <path
@@ -1739,37 +1785,30 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g701">
-      <g
-   id="id24">
-       <path
-   d="m 6900,2300 c -100,0 -200,100 -200,200 l 0,800 c 0,100 100,201 200,201 l 3300,0 c 100,0 201,-101 201,-201 l 0,-800 c 0,-100 -101,-200 -201,-200 l -3300,0 z"
+     </g><path
+   d="m 5636.0884,1045.6175 c -115.5583,0 -231.1166,100 -231.1166,200 l 0,800 c 0,100 115.5583,201 231.1166,201 l 3813.425,0 c 115.5583,0 232.2722,-101 232.2722,-201 l 0,-800 c 0,-100 -116.7139,-200 -232.2722,-200 l -3813.425,0 z"
    id="path704"
    inkscape:connector-curvature="0"
-   style="fill:none;stroke:#000000;stroke-width:50" />
-       <text
+   style="fill:none;stroke:#000000;stroke-width:53.74903107" /><text
    class="TextShape"
-   id="text706"><tspan
+   id="text706"
+   x="-1974.9282"
+   y="-1275.311"><tspan
      class="TextParagraph"
      font-size="388px"
      font-weight="400"
      id="tspan708"
      style="font-size:388px;font-weight:400;font-family:'Arial, sans-serif'"><tspan
        class="TextPosition"
-       x="7494"
-       y="3035"
+       x="5519.0718"
+       y="1759.689"
        id="tspan710"><tspan
          id="tspan712"
-         style="fill:#000000;stroke:none">/tmp/planets</tspan></tspan></tspan></text>
-
-      </g>
-     </g>
-     <g
+         style="fill:#000000;stroke:none">/home/vlad/tmp/planets</tspan></tspan></tspan></text>
+<g
    class="com.sun.star.drawing.CustomShape"
-   id="g714">
+   id="g714"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id25">
        <path
@@ -1783,10 +1822,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.TextShape"
-   id="g721">
+   id="g721"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id26">
        <text
@@ -1804,11 +1843,12 @@
          id="tspan730"
          style="fill:#000000;stroke:none">pluto.txt</tspan></tspan></tspan></text>
 
+
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g732">
+   id="g732"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id27">
        <path
@@ -1817,10 +1857,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g737">
+   id="g737"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id28">
        <path
@@ -1829,10 +1869,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g742">
+   id="g742"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id29">
        <path
@@ -1841,10 +1881,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.CustomShape"
-   id="g747">
+   id="g747"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id30">
        <path
@@ -1858,10 +1898,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.TextShape"
-   id="g754">
+   id="g754"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id31">
        <text
@@ -1879,11 +1919,12 @@
          id="tspan763"
          style="fill:#000000;stroke:none">pluto.txt</tspan></tspan></tspan></text>
 
+
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g765">
+   id="g765"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id32">
        <path
@@ -1892,10 +1933,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g770">
+   id="g770"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id33">
        <path
@@ -1904,10 +1945,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g775">
+   id="g775"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id34">
        <path
@@ -1916,10 +1957,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.CustomShape"
-   id="g780">
+   id="g780"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id35">
        <path
@@ -1928,10 +1969,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.CustomShape"
-   id="g785">
+   id="g785"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id36">
        <path
@@ -1945,10 +1986,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.TextShape"
-   id="g792">
+   id="g792"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id37">
        <text
@@ -1966,11 +2007,12 @@
          id="tspan801"
          style="fill:#000000;stroke:none">pluto.txt</tspan></tspan></tspan></text>
 
+
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g803">
+   id="g803"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id38">
        <path
@@ -1979,10 +2021,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g808">
+   id="g808"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id39">
        <path
@@ -1991,10 +2033,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
-     </g>
-     <g
+     </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g813">
+   id="g813"
+   transform="translate(-1075,-1212.5254)">
       <g
    id="id40">
        <path
@@ -2004,8 +2046,4 @@
    style="fill:none;stroke:#000000;stroke-width:50" />
       </g>
      </g>
-    </g>
-   </g>
-  </g>
- </g>
 </svg>
