@@ -23,7 +23,7 @@ To see how we can resolve conflicts,
 we must first create one.
 The file `mars.txt` currently looks like this
 in both local copies of our `planets` repository
-(the one in `/home/vlad/` and the one in `/tmp/vlad`):
+(the one in `/home/vlad` and the one in `/tmp/vlad`):
 
 <div class="in" markdown="1">
 ~~~
