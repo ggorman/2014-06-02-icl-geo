@@ -240,6 +240,7 @@
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.CustomShape"
@@ -268,6 +269,7 @@
          style="fill:#000000;stroke:none">/home/vlad/planets</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.CustomShape"
@@ -294,6 +296,7 @@
        id="tspan7314"><tspan
          id="tspan7316"
          style="fill:#000000;stroke:none">/somewhere/planets</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1563,6 +1566,7 @@
          style="fill:#000000;stroke:none">local</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.TextShape"
@@ -1584,6 +1588,7 @@
        id="tspan7834"><tspan
          id="tspan7836"
          style="fill:#000000;stroke:none">GitHub</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1626,6 +1631,7 @@
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.CustomShape"
@@ -1664,6 +1670,7 @@
        id="tspan7870"><tspan
          id="tspan7872"
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1710,19 +1717,20 @@
    style="fill:none;stroke:#000000;stroke-width:53.84955597" /><text
    class="TextShape"
    id="text7894"
-   x="-1829.7352"
-   y="-1256.9216"><tspan
+   x="-1252.5848"
+   y="-1242.1229"><tspan
      class="TextParagraph"
      font-size="388px"
      font-weight="400"
      id="tspan7896"
      style="font-size:388px;font-weight:400;font-family:'Arial, sans-serif'"><tspan
        class="TextPosition"
-       x="5664.2646"
-       y="1778.0784"
+       x="6241.415"
+       y="1792.8771"
        id="tspan7898"><tspan
          id="tspan7900"
-         style="fill:#000000;stroke:none">/home/vlad/tmp/planets</tspan></tspan></tspan></text>
+         style="fill:#000000;stroke:none">/tmp/vlad/planets</tspan></tspan></tspan></text>
+
 <g
    class="com.sun.star.drawing.CustomShape"
    id="g7902"
@@ -1760,6 +1768,7 @@
        id="tspan7916"><tspan
          id="tspan7918"
          style="fill:#000000;stroke:none">pluto.txt</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1836,6 +1845,7 @@
        id="tspan7949"><tspan
          id="tspan7951"
          style="fill:#000000;stroke:none">pluto.txt</tspan></tspan></tspan></text>
+
 
 
       </g>

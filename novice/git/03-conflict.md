@@ -23,7 +23,7 @@ To see how we can resolve conflicts,
 we must first create one.
 The file `mars.txt` currently looks like this
 in both local copies of our `planets` repository
-(the one in `/home/vlad/` and the one in `/home/vlad/tmp`):
+(the one in `/home/vlad/` and the one in `/tmp/vlad`):
 
 <div class="in" markdown="1">
 ~~~
@@ -51,7 +51,7 @@ $ cat mars.txt
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
-This line added to our /home/vlad/planets copy
+This line added to our home copy
 ~~~
 </div>
 
@@ -60,12 +60,12 @@ and then push the change to GitHub:
 <div class="in" markdown="1">
 ~~~
 $ git add mars.txt
-$ git commit -m "Adding a line in our /home/vlad/planets copy"
+$ git commit -m "Adding a line in our home copy"
 ~~~
 </div>
 <div class="out" markdown="1">
 ~~~
-[master 5ae9631] Adding a line in our /home/vlad/planets copy
+[master 5ae9631] Adding a line in our home copy
  1 file changed, 1 insertion(+)
 ~~~
 </div>
@@ -90,13 +90,13 @@ Our repositories are now in this state:
 
 <img src="img/git-after-first-conflicting-change.svg" alt="After Making First Change" />
 
-Now let's switch to the copy under `/home/vlad/tmp`
+Now let's switch to the copy under `/tmp/vlad`
 and make a different change there
 *without* updating from GitHub:
 
 <div class="in" markdown="1">
 ~~~
-$ cd /home/vlad/tmp/planets
+$ cd /tmp/vlad/planets
 $ nano mars.txt
 $ cat mars.txt
 ~~~

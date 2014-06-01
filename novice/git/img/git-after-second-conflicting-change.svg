@@ -238,6 +238,7 @@
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.CustomShape"
@@ -266,6 +267,7 @@
          style="fill:#000000;stroke:none">/home/vlad/planets</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.CustomShape"
@@ -292,6 +294,7 @@
        id="tspan11512"><tspan
          id="tspan11514"
          style="fill:#000000;stroke:none">/somewhere/planets</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1561,6 +1564,7 @@
          style="fill:#000000;stroke:none">local</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.TextShape"
@@ -1582,6 +1586,7 @@
        id="tspan12032"><tspan
          id="tspan12034"
          style="fill:#000000;stroke:none">GitHub</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1624,6 +1629,7 @@
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.CustomShape"
@@ -1664,6 +1670,7 @@
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><path
    d="m 5518.5535,1087.4746 c -119.3206,0 -238.6412,100 -238.6412,200 l 0,800 c 0,100 119.3206,201 238.6412,201 l 3937.5803,0 c 119.3206,0 239.8344,-101 239.8344,-201 l 0,-800 c 0,-100 -120.5138,-200 -239.8344,-200 l -3937.5803,0 z"
@@ -1672,7 +1679,7 @@
    style="fill:none;stroke:#000000;stroke-width:54.61698914" /><text
    class="TextShape"
    id="text12077"
-   x="-2007.3199"
+   x="-1518.9619"
    y="-1227.3241"><tspan
      class="TextParagraph"
      font-size="388px"
@@ -1680,11 +1687,12 @@
      id="tspan12079"
      style="font-size:388px;font-weight:400;font-family:'Arial, sans-serif'"><tspan
        class="TextPosition"
-       x="5486.6802"
+       x="5975.0381"
        y="1807.6759"
        id="tspan12081"><tspan
          id="tspan12083"
-         style="fill:#000000;stroke:none">/home/vlad/tmp/planets</tspan></tspan></tspan></text>
+         style="fill:#000000;stroke:none">/tmp/vlad/planets</tspan></tspan></tspan></text>
+
 <g
    class="com.sun.star.drawing.CustomShape"
    id="g12085"
@@ -1722,6 +1730,7 @@
        id="tspan12099"><tspan
          id="tspan12101"
          style="fill:#000000;stroke:none">pluto.txt</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1798,6 +1807,7 @@
        id="tspan12132"><tspan
          id="tspan12134"
          style="fill:#000000;stroke:none">pluto.txt</tspan></tspan></tspan></text>
+
 
 
       </g>

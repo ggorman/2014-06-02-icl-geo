@@ -156,32 +156,31 @@ this command would download them to our local repository.
 
 We can simulate working with a collaborator using another copy of the repository on our local machine.
 To do this,
-`cd` to your home directory `/home/vlad` (remember to replace `vlad` with your username here), create a directory called
-`tmp` using `mkdir tmp`.
+`cd` to the `/tmp` directory, create a directory with the same name as your username using `mkdir vlad`.
 (Note: don't make `tmp` a subdirectory of the existing repository `/home/vlad/planets`).
 Instead of creating a new repository here with `git init`,
 we will [clone](../../gloss.html#repository-clone) the existing repository from GitHub:
 
 <div class="in" markdown="1">
 ~~~
-$ cd /home/vlad
-$ mkdir tmp
-$ cd tmp
+$ cd /tmp
+$ mkdir vlad
+$ cd vlad
 $ git clone https://github.com/vlad/planets.git
 ~~~
 </div>
 
 `git clone` creates a fresh local copy of a remote repository.
-(We did it in `/home/vlad/tmp` or some other directory so that we don't overwrite our existing `planets` directory.)
+(We did it in `/tmp/vlad` or some other directory so that we don't overwrite our existing `planets` directory.)
 Our computer now has two copies of the repository:
 
 <img src="img/git-after-duplicate-clone.svg" alt="After Creating Duplicate Clone of Repository" />
 
-Let's make a change in the copy in `/home/vlad/tmp/planets`:
+Let's make a change in the copy in `/tmp/vlad/planets`:
 
 <div class="in" markdown="1">
 ~~~
-$ cd /home/vlad/tmp/planets
+$ cd /tmp/vlad/planets
 $ nano pluto.txt
 $ cat pluto.txt
 ~~~

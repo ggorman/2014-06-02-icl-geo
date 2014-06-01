@@ -247,6 +247,7 @@
          id="tspan72">mars.txt</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    id="g74"
@@ -311,6 +312,7 @@
          id="tspan100">/home/vlad/planets</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    id="g102"
@@ -337,6 +339,7 @@
        class="TextPosition"><tspan
          style="fill:#000000;stroke:none"
          id="tspan113">/somewhere/planets</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1606,6 +1609,7 @@
          id="tspan622">local</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    id="g624"
@@ -1627,6 +1631,7 @@
        class="TextPosition"><tspan
          style="fill:#000000;stroke:none"
          id="tspan633">GitHub</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1667,6 +1672,7 @@
        class="TextPosition"><tspan
          style="fill:#000000;stroke:none"
          id="tspan651">mars.txt</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1745,6 +1751,7 @@
          id="tspan684">mars.txt</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    id="g686"
@@ -1788,7 +1795,7 @@
    id="path704"
    d="m 6662.4467,2300.0006 c -119.9011,0 -239.8021,100 -239.8021,200 l 0,800 c 0,100 119.901,201 239.8021,201 l 3956.7333,0 c 119.902,0 241.002,-101 241.002,-201 l 0,-800 c 0,-100 -121.1,-200 -241.002,-200 l -3956.7333,0 z" /><text
    y="-28.919231"
-   x="-379.81204"
+   x="89.698013"
    id="text706"
    class="TextShape"
    transform="scale(0.97710497,1.0234315)"
@@ -1800,10 +1807,11 @@
      class="TextParagraph"><tspan
        id="tspan710"
        y="2936.5945"
-       x="6942.6128"
+       x="7412.123"
        class="TextPosition"><tspan
          style="fill:#000000;stroke:none"
-         id="tspan712">/home/vlad/tmp/planets</tspan></tspan></tspan></text>
+         id="tspan712">/tmp/vlad/planets</tspan></tspan></tspan></text>
+
 <g
    id="g714"
    class="com.sun.star.drawing.CustomShape"
@@ -1841,6 +1849,7 @@
        class="TextPosition"><tspan
          style="fill:#000000;stroke:none"
          id="tspan730">pluto.txt</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1917,6 +1926,7 @@
        class="TextPosition"><tspan
          style="fill:#000000;stroke:none"
          id="tspan763">pluto.txt</tspan></tspan></tspan></text>
+
 
 
       </g>

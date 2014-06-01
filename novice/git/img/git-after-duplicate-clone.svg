@@ -233,6 +233,7 @@
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.LineShape"
@@ -297,6 +298,7 @@
          style="fill:#000000;stroke:none">/home/vlad/planets</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.CustomShape"
@@ -323,6 +325,7 @@
        id="tspan5108"><tspan
          id="tspan5110"
          style="fill:#000000;stroke:none">/somewhere/planets</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1457,6 +1460,7 @@
          style="fill:#000000;stroke:none">local</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.TextShape"
@@ -1478,6 +1482,7 @@
        id="tspan5574"><tspan
          id="tspan5576"
          style="fill:#000000;stroke:none">GitHub</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1518,6 +1523,7 @@
        id="tspan5592"><tspan
          id="tspan5594"
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1608,6 +1614,7 @@
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.LineShape"
@@ -1654,8 +1661,8 @@
    inkscape:connector-curvature="0"
    id="path5652"
    d="m 6563.2887,2300 c -119.9321,0 -239.8643,100 -239.8643,200 l 0,800 c 0,100 119.9322,201 239.8643,201 l 3957.7613,0 c 119.932,0 241.064,-101 241.064,-201 l 0,-800 c 0,-100 -121.132,-200 -241.064,-200 l -3957.7613,0 z" /><text
-   y="-29.597458"
-   x="-917.52118"
+   y="-14.798729"
+   x="-399.56564"
    id="text5654"
    class="TextShape"><tspan
      style="font-size:388px;font-weight:400;font-family:'Arial, sans-serif'"
@@ -1664,11 +1671,12 @@
      font-size="388px"
      class="TextParagraph"><tspan
        id="tspan5658"
-       y="3005.4026"
-       x="6576.479"
+       y="3020.2014"
+       x="7094.4346"
        class="TextPosition"><tspan
          style="fill:#000000;stroke:none"
-         id="tspan5660">/home/vlad/tmp/planets</tspan></tspan></tspan></text>
+         id="tspan5660">/tmp/vlad/planets</tspan></tspan></tspan></text>
+
 
      </g>
 </svg>

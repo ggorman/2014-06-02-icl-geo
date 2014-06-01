@@ -38,9 +38,9 @@
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="2.6970053"
-   inkscape:cx="144.09304"
-   inkscape:cy="316.03486"
+   inkscape:zoom="1.3485027"
+   inkscape:cx="198.48296"
+   inkscape:cy="262.15031"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -250,6 +250,7 @@
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.LineShape"
@@ -314,6 +315,7 @@
          style="fill:#000000;stroke:none">/home/vlad/planets</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.CustomShape"
@@ -340,6 +342,7 @@
        id="tspan111"><tspan
          id="tspan113"
          style="fill:#000000;stroke:none">/somewhere/planets</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1609,6 +1612,7 @@
          style="fill:#000000;stroke:none">local</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.TextShape"
@@ -1630,6 +1634,7 @@
        id="tspan631"><tspan
          id="tspan633"
          style="fill:#000000;stroke:none">GitHub</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1670,6 +1675,7 @@
        id="tspan649"><tspan
          id="tspan651"
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1748,6 +1754,7 @@
          style="fill:#000000;stroke:none">mars.txt</tspan></tspan></tspan></text>
 
 
+
       </g>
      </g><g
    class="com.sun.star.drawing.LineShape"
@@ -1792,19 +1799,20 @@
    style="fill:none;stroke:#000000;stroke-width:53.74903107" /><text
    class="TextShape"
    id="text706"
-   x="-1974.9282"
-   y="-1275.311"><tspan
+   x="-1430.7855"
+   y="-1254.3824"><tspan
      class="TextParagraph"
      font-size="388px"
      font-weight="400"
      id="tspan708"
      style="font-size:388px;font-weight:400;font-family:'Arial, sans-serif'"><tspan
        class="TextPosition"
-       x="5519.0718"
-       y="1759.689"
+       x="6063.2144"
+       y="1780.6176"
        id="tspan710"><tspan
          id="tspan712"
-         style="fill:#000000;stroke:none">/home/vlad/tmp/planets</tspan></tspan></tspan></text>
+         style="fill:#000000;stroke:none">/tmp/vlad/planets</tspan></tspan></tspan></text>
+
 <g
    class="com.sun.star.drawing.CustomShape"
    id="g714"
@@ -1842,6 +1850,7 @@
        id="tspan728"><tspan
          id="tspan730"
          style="fill:#000000;stroke:none">pluto.txt</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -1918,6 +1927,7 @@
        id="tspan761"><tspan
          id="tspan763"
          style="fill:#000000;stroke:none">pluto.txt</tspan></tspan></tspan></text>
+
 
 
       </g>
@@ -2006,6 +2016,7 @@
        id="tspan799"><tspan
          id="tspan801"
          style="fill:#000000;stroke:none">pluto.txt</tspan></tspan></tspan></text>
+
 
 
       </g>
